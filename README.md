@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks devoted to addressing coding prompts in Python. They are mainly from [HackerRank](https://hackerrank.com) and [LeetCode](https://leetcode.com/problemset/all/).
 
-One time, an (Interview Cake)[https://www.interviewcake.com/table-of-contents] prompt asked for the code needed to get text ready for a word cloud (a tokenized frequency dictionary) but I went beyond and plotted the words for a more complete answer!
+One time, an [Interview Cake](https://www.interviewcake.com/table-of-contents) prompt asked for the code needed to get text ready for a word cloud (a tokenized frequency dictionary) but I went beyond and plotted the words for a more complete answer!
 
 I use Jupyter notebooks to solve problems in a more modular style. I hope to take detours to further explore alternate approaches or reach my own goalposts for a prompt.
 
