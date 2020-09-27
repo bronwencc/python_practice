@@ -6,7 +6,7 @@ One time, an [Interview Cake](https://www.interviewcake.com/table-of-contents) p
 
 I use Jupyter notebooks to solve problems in a more modular style. I hope to take detours to further explore alternate approaches or reach my own goalposts for a prompt.
 
-## A List of Algorithm Coding Prompt Resources:
+## A List of Coding Prompt Resources:
 * [HackerRank](https://hackerrank.com)
 * [LeetCode](https://leetcode.com/problemset/all/)
 * [Interview Cake](https://www.interviewcake.com/table-of-contents)
