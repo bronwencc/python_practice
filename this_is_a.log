@@ -1,2 +1,7 @@
 DEBUG:root:This is to help debug.
 Level 33:root:Almost a warning.
+ERROR:root:The length of 40 could not be measured.
+Traceback (most recent call last):
+  File "<ipython-input-4-e8c80a53b376>", line 6, in <module>
+    len(fakeString)
+TypeError: object of type 'int' has no len()
