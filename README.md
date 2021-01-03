@@ -8,7 +8,7 @@ I use Jupyter notebooks to solve problems in a more modular style. The experienc
 
 * Notebook [hr-statistics-normal-distribution.ipynb](https://github.com/bronwencc/python_practice/blob/master/hr-statistics-normal-distribution.ipynb) looks at the HackerRank Normal Distributions I and II problems, and normal distributions more generally, with `scipy` and `random` packages. It reads in numbers from normdist1.txt and normdist2.txt and outputs them to normdist1-results.txt and normdist2-results.txt, for Normal Distributions I and II, respectively. It uses plots to visualize the distributions and touches on the standard normal distribution.
 * Notebook [Logging-practice.ipynb](https://github.com/bronwencc/python_practice/blob/master/Logging-practice.ipynb) creates a log file named [this_is_a.log](https://github.com/bronwencc/python_practice/blob/master/this_is_a.log), gaining a better understanding of logging in Python.
-* Notebook chi-squared-test.ipynb looks into chi-squared tests for significance of categorical variables. 
+* Notebook [chi-squared-test.ipynb](https://github.com/bronwencc/python_practice/blob/master/chi-squared-test.ipynb) looks into chi-squared tests for significance of categorical variables. 
 
 ## A List of Coding Prompt Resources:
 * [HackerRank](https://hackerrank.com)
